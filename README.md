@@ -1,2 +1,2 @@
 # practice1
-i am new to this tool
+this is just for practice
